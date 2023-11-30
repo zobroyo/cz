@@ -1,0 +1,27 @@
+body
+{
+  text-align: center;
+  background:orange;
+}
+.ibox 
+{
+ width: 200px;
+  margin-left: 20px;
+  border-radius:27px;
+  background-color:lightblue;
+  padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.thebtn{
+  border-radius:30px;
+  background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+  padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+  font-family:cursive;
+  font-size:40px;
+}
